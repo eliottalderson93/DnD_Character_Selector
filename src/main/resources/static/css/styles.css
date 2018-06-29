@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+#DnDRed{
+	background-color:rgb(164,4,4);
+}
+body{
+	background-color:rgb(164,4,4);
+	height:225vh;
+	color:black;
+}
+.card{
+	background-color:hsl(0,0%,7%);
+}
+#black{
+	color:black;
+}
